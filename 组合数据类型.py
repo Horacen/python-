@@ -286,6 +286,8 @@ for i in n:
 print(s)
 '''   
 
+
+'''
 s = '''双儿 洪七公 赵敏 赵敏 逍遥子 鳌拜 殷天正 金轮法王 乔峰 杨过 洪七公 郭靖 
        杨逍 鳌拜 殷天正 段誉 杨逍 慕容复 阿紫 慕容复 郭芙 乔峰 令狐冲 郭芙 
        金轮法王 小龙女 杨过 慕容复 梅超风 李莫愁 洪七公 张无忌 梅超风 杨逍 
@@ -316,7 +318,7 @@ items=list(counts.items())
 items.sort(key=lambda x:x[1], reverse=True)
 word, count = items[1]
 print("{}".format(word))
-
+'''
 
 
 
