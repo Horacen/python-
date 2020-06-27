@@ -10,8 +10,8 @@ This is a temporary script file.
 """
 注释：
 -单行注释 # 
--多行注释  
--快捷键 ctrl+1
+-多行注释 成对的三个的单引号或双引号
+-快捷键 ctrl+1 （spyder下）
 """
 
 
