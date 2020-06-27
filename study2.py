@@ -49,7 +49,7 @@ range( )函数
 
 """
 
-'''
+
 import turtle
 turtle.setup(650, 350, 200, 200)
 turtle.penup()
