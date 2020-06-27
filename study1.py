@@ -73,10 +73,10 @@ eval()函数  评估函数
     
 """
 
-#a = input()
-#b = a.replace(" "," ")
-#c = eval(b)
-#print("{:.2f}".format(c))
+a = input()
+b = a.replace(" "," ")
+c = eval(b)
+print("{:.2f}".format(c))
 
 
 
