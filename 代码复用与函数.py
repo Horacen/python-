@@ -208,7 +208,7 @@ def hanoi(n, src, dst, mid):    #n代表汉诺塔的圆盘数量
 hanoi(3,"A","C","B")
 '''
 
-'''
+
 #绘制科赫雪花曲线
 #绘制雪花的一支
 import turtle
@@ -244,7 +244,7 @@ def main():
     turtle.done()
 
 main()
-'''
+
 
 '''
 import random
